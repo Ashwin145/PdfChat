@@ -1,0 +1,20 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "words": [
+      "venv",
+      "langchain",
+      "dotenv",
+      "vectorstores",
+      "openai",
+      "jsonify",
+      "vectordb",
+      "OPENAI"
+    ],
+    "ignorePaths": [
+      "**/node_modules/**",
+      "**/dist/**",
+      "**/build/**"
+    ]
+  }
+  
