@@ -70,8 +70,7 @@ Contributions to the DocuMentor PDF Chatbot are welcome. Please follow the guide
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Author
-- Ansh Kathpal
+
 
 ## Acknowledgments
 Special thanks to the React, Flask, and OpenAI communities for providing resources and libraries that made this advanced PDF chatbot possible.
